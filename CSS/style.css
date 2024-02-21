@@ -1,0 +1,12 @@
+body{
+    font-size: 15px;
+    background-color: cornsilk;
+}
+
+.titulo{
+    text-align: center;
+    background-color: aquamarine;
+    position: relative;
+    position: inherit;;
+    overflow: auto;
+}
